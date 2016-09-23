@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <i image="fill_0.png" delay="100" x="0" y="1"/>
+    <i image="fill_1.png" delay="100" x="0" y="1"/>
+    <i image="fill_2.png" delay="100" x="0" y="1"/>
+    <i image="gauge_0.png" delay="100" x="0" y="0"/>
+    <i image="part_0.png" delay="100" x="-1" y="0"/>
+    <i image="part_1.png" delay="100" x="0" y="0"/>
+    <i image="part_2.png" delay="100" x="0" y="0"/>
+</root>

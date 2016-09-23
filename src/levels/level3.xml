@@ -1,0 +1,129 @@
+<level>
+    <LevelConfiguration x="0" y="0" left="true" right="true" up="false" down="false"/>
+    <Player x="500" y="600"/>
+    <Tessel tile="Brick" x="300" y="450" width="5"/>
+    <Tessel tile="Brick" x="0" y="600" width="10"/>
+    <Tessel tile="Brick" x="-50" y="300" height="6" width="1"/>
+    <RibbonPig x="0" y="300" dir="RIGHT"/>
+    
+    <Tessel tile="Brick" x="1000" y="400" width="8"/>
+    <Tessel tile="Brick" x="1840" y="400" width="8"/>
+    <OrangeMushroom x="2000" y="400"/>
+    <OrangeMushroom x="2100" y="400"/>
+    <OrangeMushroom x="2200" y="400"/>
+    <OrangeMushroom x="2300" y="400"/>
+    <Stump x="1030" y="400"/>
+    <Stump x="1680" y="400" dir="RIGHT"/>
+    <Stump x="750" y="600"/>
+    <Stump x="870" y="600" dir="RIGHT"/>
+    <Brick x="1000" y="900"/>
+    <OrangeMushroom x="1050" y="900"/>
+    <RibbonPig x="1200" y="400"/>
+    <BlueRibbonPig x="1350" y="400"/>
+    <GreenMushroom x="1150" y="400"/>
+    <Brick x="2000" y="650"/>
+    <Brick x="2250" y="550"/>
+    <Tessel x="1100" y="400" height="6" tile="Brick"/>
+    <BlueRibbonPig x="2280" y="550"/>
+    <BlueRibbonPig x="2030" y="650"/>
+    <Brick x="1710" y="765" state="1"/>
+    <Brick x="1790" y="765" state="1"/>
+    <Brick x="1500" y="650"/>
+    <BlueRibbonPig x="1555" y="650" dir="RIGHT"/>
+    <Brick x="1250" y="550"/>
+    <BlueRibbonPig x="1305" y="550" dir="RIGHT"/>
+    <GreenMushroom x="1765" y="750" dir="RIGHT"/>
+    
+    <Tessel tile="Brick" x="2500" y="0" height="12"/>
+    <Brick x="2400" y="1000"/>
+    <BlueRibbonPig x="2470" y="1000" dir="RIGHT"/>
+    <Brick x="2700" y="1050"/>
+    <GreenMushroom x="2700" y="1050"/>
+    
+    <Tessel tile="Brick" x="2500" y="0" width="30"/>
+    <Spawner monster="RibbonPig" delay="750" x="2800" y="110" upsidedown="true"/>
+    
+    <HealthPotion x="2760" y="950" tier="1"/>
+    <Stump x="3034" y="850"/>
+    <GreenMushroom x="3200" y="850"/>
+    <Stump x="3880" y="850" dir="RIGHT"/>
+    <Tessel x="3000" y="850" height="4" tile="Brick"/>
+    <GreenMushroom x="4800" y="700"/>
+    <Tessel x="3090" y="850" width="4" tile="Brick"/>
+    <Spawner x="3650" y="110" monster="Stump" delay="650" upsidedown="true"/>
+    <Tessel x="3850" y="850" width="4" tile="Brick"/>
+    
+    <Spawner x="4400" y="110" monster="BlueRibbonPig" delay="650" upsidedown="true"/>
+    
+    <Tessel x="4500" y="700" tile="Brick" width="10" height="1"/>
+    <HealthPotion x="4950" y="600" tier="1"/>
+    <HealthPotion x="5400" y="250" tier="2"/>
+    
+    <Tessel x="5320" y="340" tile="Brick" height="7"/>
+    <Tessel x="4600" y="520" tile="Brick" width="7"/>
+    <Stump x="4750" y="340" dir="RIGHT"/>
+    <Tessel x="4720" y="340" tile="Brick" width="9"/>
+    <Tessel x="4530" y="-20" tile="Brick" height="10"/>
+    <Stump x="5200" y="520"/>
+    <Spawner x="5000" y="340" monster="RibbonPig" delay="2000"/>
+    
+    <Tessel x="4500+1200" y="700" tile="Brick" width="20" height="7"/>
+    <Tessel x="4500+1200" y="700" tile="Brick" state="3" type="0" height="7"/>
+    <Brick x="4500+1200" y="690" state="5"/>
+    <Brick x="4500+20*90+1200" y="690" state="5"/>
+    <Brick x="4500+1200" y="700" state="5"/>
+    <Brick x="4500+20*90+1200" y="700" state="5"/>
+    <Tessel x="4500+1200" y="700" tile="Brick" state="1" width="20"/>
+   
+    <Brick x="4500+1200" y="700" state="0" type="0"/>
+    <Brick x="4590+1200" y="700" state="0" type="1"/>
+    <Brick x="4680+1200" y="700" state="0" type="0"/>
+    <Brick x="4770+1200" y="700" state="0" type="4"/>
+    <Brick x="4860+1200" y="700" state="0" type="5"/>
+    <Brick x="5400+1200" y="700" type="1"/>
+    <Brick x="5200+1200" y="700" type="3"/>
+    <Brick x="4950+1200" y="700" type="0"/>
+    <Brick x="5040+1200" y="700" type="4"/>
+    <Brick x="5650+1200" y="700" type="4"/>
+    <Brick x="5800+1200" y="700" type="5"/>
+    <Brick x="6210+1200" y="700" type="1"/>
+    
+    <Brick x="4550+1200" y="760" type="3"/>
+    <Brick x="4700+1200" y="800" type="4"/>
+    <Brick x="5000+1200" y="760" type="5"/>
+    <Brick x="5160+1200" y="760" type="1"/>
+    <Brick x="5300+1200" y="760" type="3"/>
+    <Brick x="5730+1200" y="780" type="4"/>
+    <Brick x="4600+1200" y="820" type="1"/>
+    <Brick x="4950+1200" y="820" type="4"/>
+    <Brick x="5550+1200" y="820" type="3"/>
+    <Brick x="5650+1200" y="820" type="5"/>
+    <Brick x="4850+1200" y="900" type="5"/>
+    <Brick x="5200+1200" y="880" type="3"/>
+    <Brick x="6000+1200" y="880" type="1"/>
+    <Brick x="5800+1200" y="960" type="4"/>
+    <Tessel tile="Brick" x="4500+20*90+1200" y="700" state="4" type="0" height="7"/>
+    
+    <Portal x="5800+1200" y="655"/>
+    
+    <BossNeoHuroid x="6900" y="685" boss="true"/>
+    <BossNeoHuroid x="6800" y="685" boss="true" dir="RIGHT"/>
+    <BossNeoHuroid x="6700" y="685" boss="true"/>
+    
+    <BlueSky/>
+    <MountainRange/>
+    <WhiteMountains scale="2" scroll="0.3"/>
+    <Clouds density="10" scale="0.6" scroll="0.35"/>
+    <Blimp period="4000" dx="-100" scale="0.5" upshift="-800" scroll="0.37"/>
+    <RockyMountains/>
+    <Forest/> 
+    <Tree period="450" type="3" scroll="0.65"/>
+    <Tree period="650" type="2" scroll="0.68"/>
+    <TrainTrack/>
+    <Tree period="980" type="6" scroll="0.725"/>
+    <Tree period="690" type="4" scroll="0.75"/>
+    <Tree period="1800" type="5" scroll="0.77"/>
+    
+    <Mansion x="5900+1200" y="421"/>
+    
+</level>

@@ -1,0 +1,17 @@
+<!--D-Roy Laser Attack-->
+
+<i>
+    <i image="effect_0.png" delay="1320" x="-396" y="-72"/>
+    <i image="effect_1.png" delay="90" x="-396" y="-72"/>
+    <i image="effect_2.png" delay="90" x="-396" y="-72"/>
+    <i image="effect_3.png" delay="90" x="-396" y="-72"/>
+    <i image="effect_4.png" delay="90" x="-396" y="-72"/>
+    <i image="effect_5.png" delay="90" x="-396" y="-72"/>
+    <i image="effect_6.png" delay="90" x="-396" y="-72"/>
+    <i image="hit_0.png" delay="100" x="-38" y="-34"/>
+    <i image="hit_1.png" delay="100" x="-38" y="-34"/>
+    <i image="hit_2.png" delay="100" x="-38" y="-34"/>
+    <i image="hit_3.png" delay="100" x="-38" y="-34"/>
+    <i image="hit_4.png" delay="100" x="-38" y="-34"/>
+    <i image="naked_0.png" delay="90" x="-396" y="-72"/>
+</i>

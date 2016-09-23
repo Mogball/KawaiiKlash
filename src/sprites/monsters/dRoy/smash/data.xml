@@ -1,0 +1,12 @@
+<!--D-Roy Smash Attack-->
+
+<i> 
+    <i image="effect_0.png" delay="1080" x="0" y="0"/>
+    <i image="effect_1.png" delay="120" x="0" y="0"/>
+    <i image="hit_0.png" delay="100" x="-38" y="-34"/>
+    <i image="hit_1.png" delay="100" x="-38" y="-34"/>
+    <i image="hit_2.png" delay="100" x="-38" y="-34"/>
+    <i image="hit_3.png" delay="100" x="-38" y="-34"/>
+    <i image="hit_4.png" delay="100" x="-38" y="-34"/>
+    <i image="naked_0.png" delay="120" x="-137" y="-127"/>
+</i>

@@ -1,0 +1,11 @@
+<i>
+    <i image="stand1_0.png" delay="500" x="-42" y="-76"/>
+    <i image="stand1_1.png" delay="500" x="-42" y="-76"/>
+    <i image="stand1_2.png" delay="500" x="-42" y="-76"/>
+    <i image="stand1_3.png" delay="500" x="-42" y="-76"/>
+    <i image="stand1_4.png" delay="500" x="-42" y="-76"/>
+    <i image="walk1_0.png" delay="180" x="-50" y="-76"/>
+    <i image="walk1_1.png" delay="180" x="-50" y="-76"/>
+    <i image="walk1_2.png" delay="180" x="-50" y="-76"/>
+    <i image="walk1_3.png" delay="180" x="-50" y="-76"/>
+</i>

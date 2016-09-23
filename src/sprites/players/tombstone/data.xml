@@ -1,0 +1,24 @@
+<i>
+  <i image="fall_0.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_1.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_2.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_3.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_4.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_5.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_6.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_7.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_8.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_9.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_10.png" delay="80" x="-52" y="-45"/>
+  <i image="fall_11.png" delay="80" x="-52" y="-45"/>
+  <i image="ground_0.png" delay="100" x="-52" y="-45"/>
+  <i image="ground_1.png" delay="100" x="-52" y="-45"/>
+  <i image="ground_2.png" delay="100" x="-52" y="-45"/>
+  <i image="ground_3.png" delay="150" x="-52" y="-45"/>
+  <i image="ground_4.png" delay="150" x="-52" y="-45"/>
+  <i image="ground_5.png" delay="150" x="-52" y="-45"/>
+  <i image="ground_6.png" delay="150" x="-52" y="-45"/>
+  <i image="ground_7.png" delay="150" x="-52" y="-45"/>
+  <i image="still_0.png" delay="150" x="-52" y="-45"/>
+  <i image="naked_0.png" delay="150" x="-19" y="-43"/>
+</i>

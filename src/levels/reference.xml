@@ -1,0 +1,73 @@
+<!--
+Elements:       Definition:
+level           none
+
+Level           x = starting screen horizontal position
+                y = starting screen vertical position
+                left = whether the screen can scroll left
+                right = whether the screen can scroll right
+                up = whether the screen can scroll up
+                down = whether the screen can scroll down
+                
+Entity          x = starting horizontal position
+                y = starting vertical position
+                dir = starting horizontal direction (RIGHT/LEFT)
+
+Tile            state = default starting state
+                type = subtype of the state
+
+Tessel          state = default starting state
+                type = subtype of the state
+                width = width of the Tessel (Tiles)
+                height = height of the Tessel (Tiles)
+                tile = name of the Tile to be tessellated
+                
+Spawner         x = spawning horizontal position
+                y = spawning veritcal position
+                delay = delay between spawning (ms) (default NO_SPAWN)
+                spawn = the number of Monsters to spawn (default UNLIMITED)
+                monster = the type of Monster to spawn
+                
+Respawner       x = spawning horizontal position
+                y = spawning vertical position
+                delay = time after Monster death (ms) to respawn (default NO_RESPAWN)
+                respawn = the number of times the Monster respawns (default UNLIMITED)
+                monster = the Monster that will respawn
+
+Player          a user-controlled Entity that plays the Game
+
+RibbonPig       travels in one direction until it hits a wall then turns 
+                around
+
+OrangeMushroom  will forward into the air between waiting intervals
+
+BlueRibbonPig   will stand still until the player enters its line of sight, 
+                then it will act like a RibbonPig
+                
+GreenMushroom   will walk in one direction and turn at walls, and will also 
+                turn around when it reaches the edge of platforms
+                
+Stump           will stand still then walk a certain distance, then turn 
+                around and walk back that distance
+                
+                
+Brick           generic brick-themed Tile
+-->
+<level> 
+    <LevelConfiguration x="0" y="0" left="true" right="true" up="false" down="false"/>
+    <Player x="500" y="1060"/>
+    
+    <BlueMushroom x="700" y="500"/>
+    
+    <Shroom x="700" y="500" dir="RIGHT"/>
+    <Pig x="700" y="500" dir="RIGHT"/>
+    <StoneGolem x="700" y="500" dir="RIGHT"/>
+    
+    
+    <Tessel tile="Brick" x="600" y="500" width="5"/>
+    <Tessel tile="Brick" x="600" y="700" width="4"/>
+    <Tessel tile="Brick" x="600+5*90+300" y="500" width="2"/>
+    <Tessel tile="Brick" x="400" y="1060" width="16"/>
+    <Tessel tile="Brick" x="1800" y="670" width="2"/>
+    <Tessel tile="Brick" x="1500" y="800"/>
+</level>

@@ -1,0 +1,25 @@
+<!--FlameOrb-->
+
+<i>
+  <i image="effect_0.png" delay="120" x="-148" y="-85"/>
+  <i image="effect_1.png" delay="120" x="-148" y="-85"/>
+  <i image="effect_2.png" delay="120" x="-148" y="-85"/>
+  <i image="effect_3.png" delay="120" x="-148" y="-85"/>
+  <i image="effect_4.png" delay="120" x="-148" y="-85"/>
+  <i image="effect_5.png" delay="120" x="-148" y="-85"/>
+  <i image="effect_6.png" delay="120" x="-148" y="-85"/>
+  <i image="effect_7.png" delay="120" x="-148" y="-85"/>
+  <i image="effect_8.png" delay="120" x="-148" y="-85"/>
+  <i image="ball_0.png" delay="120" x="-30" y="-23"/>
+  <i image="ball_1.png" delay="120" x="-30" y="-23"/>
+  <i image="ball_2.png" delay="120" x="-30" y="-23"/>
+  <i image="ball_3.png" delay="120" x="-30" y="-23"/>
+  <i image="hit_0.png" delay="120" x="-59" y="-92"/>
+  <i image="hit_1.png" delay="120" x="-59" y="-92"/>
+  <i image="hit_2.png" delay="120" x="-59" y="-92"/>
+  <i image="hit_3.png" delay="120" x="-59" y="-92"/>
+  <i image="hit_4.png" delay="120" x="-59" y="-92"/>
+  <i image="hit_5.png" delay="120" x="-59" y="-92"/>
+  <i image="hit_6.png" delay="120" x="-59" y="-92"/>
+  <i image="naked_0.png" delay="100" x="-11" y="-6"/>
+</i>

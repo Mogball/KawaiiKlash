@@ -1,0 +1,24 @@
+<!--EnergyBolt-->
+
+<i>
+  <i image="effect_0.png" delay="450" x="0" y="0"/>
+  <i image="effect_1.png" delay="120" x="-130" y="-99"/>
+  <i image="effect_2.png" delay="120" x="-130" y="-99"/>
+  <i image="effect_3.png" delay="120" x="-130" y="-99"/>
+  <i image="effect_4.png" delay="120" x="-130" y="-99"/>
+  <i image="effect_5.png" delay="120" x="-130" y="-99"/>
+  <i image="effect_6.png" delay="120" x="-130" y="-99"/>
+  <i image="effect_7.png" delay="120" x="-130" y="-99"/>
+  <i image="ball_0.png" delay="120" x="-30" y="-28"/>
+  <i image="ball_1.png" delay="120" x="-30" y="-28"/>
+  <i image="ball_2.png" delay="120" x="-30" y="-28"/>
+  <i image="hit_0.png" delay="120" x="-114" y="-113"/>
+  <i image="hit_1.png" delay="120" x="-114" y="-113"/>
+  <i image="hit_2.png" delay="120" x="-114" y="-113"/>
+  <i image="hit_3.png" delay="120" x="-114" y="-113"/>
+  <i image="hit_4.png" delay="120" x="-114" y="-113"/>
+  <i image="hit_5.png" delay="120" x="-114" y="-113"/>
+  <i image="hit_6.png" delay="120" x="-114" y="-113"/>
+  <i image="naked_0.png" delay="100" x="-7" y="-6"/>
+  <i image="explode_0.png" delay="100" x="-79" y="-52"/>
+</i>

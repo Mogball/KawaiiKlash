@@ -1,0 +1,23 @@
+<!--Quad Star-->
+
+<i>
+    <i image="4121013_0.png" delay="100" x="0" y="-32"/>
+    <i image="4121013_1.png" delay="100" x="0" y="-32"/>
+    <i image="4121013_2.png" delay="100" x="0" y="-32"/>
+    <i image="hit_0.png" delay="120" x="-67" y="-65"/>
+    <i image="hit_1.png" delay="120" x="-67" y="-65"/>
+    <i image="hit_2.png" delay="120" x="-67" y="-65"/>
+    <i image="hit_3.png" delay="120" x="-67" y="-65"/>
+    <i image="hit_4.png" delay="120" x="-67" y="-65"/>
+    <i image="hit_5.png" delay="120" x="-67" y="-65"/>
+    <i image="effect_0.png" delay="300" x="-163" y="-109"/>
+    <i image="effect_1.png" delay="90" x="-163" y="-109"/>
+    <i image="effect_2.png" delay="90" x="-163" y="-109"/>
+    <i image="effect_3.png" delay="90" x="-163" y="-109"/>
+    <i image="effect_4.png" delay="90" x="-163" y="-109"/>
+    <i image="effect_5.png" delay="90" x="-163" y="-109"/>
+    <i image="effect_6.png" delay="90" x="-163" y="-109"/>
+    <i image="ball_0.png" delay="100" x="-18" y="-18"/>
+    <i image="ball_1.png" delay="100" x="-18" y="-18"/>
+    <i image="naked_0.png" delay="100" x="-8" y="-8"/>
+</i>

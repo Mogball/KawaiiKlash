@@ -1,0 +1,17 @@
+<level>
+    <LevelConfiguration x="0" y="0" left="false" right="false" up="false" down="false"/>
+    <Player x="340" y="1050"/>
+    <Portal x="340" y="1050"/>
+    <Tessel tile="Brick" x="0" y="1065" state="1" width="22"/>
+    <Tessel tile="Brick" x="0" y="1065" state="0" width="22"/>
+    <Tessel tile="Brick" x="-30" y="-30" height="18"/>
+    <Tessel tile="Brick" x="1857" y="-30" height="18"/>
+   
+    <BossDRoy boss="true" x="1300" y="1050"/>
+    <NeoHuroid boss="false" x="1200" y="1050"/>
+    <NeoHuroid boss="false" x="1100" y="1050"/>
+    
+    <Mansion state="1" scale="1.88" y="-395" x="3"/>
+    <Mansion state="2" scale="1.64" y="22" x="0" foreground="true"/>
+    <Mansion state="3" scale="1.64" y="22" x="1807" foreground="true"/>
+</level>

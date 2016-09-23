@@ -1,0 +1,19 @@
+<level>
+    <LevelConfiguration x="0" y="0" left="true" right="true" up="false" down="false"/>
+    <Player x="500" y="600"/>
+    
+    <Brick x="50" y="950"/>
+    <Spawner monster="OrangeMushroom" x="100" y="950" delay="2200" dir="RIGHT"/>
+    
+    <Tessel tile="Brick" x="270" y="600" width="5"/>
+    <Tessel tile="Brick" x="400" y="600" height="9"/>
+    <Tessel tile="Brick" x="720" y="300" height="6"/>
+    <Brick x="630" y="540"/>
+    <Stump x="630" y="540"/>
+    <Stump x="720" y="300"/>
+    
+    <Tessel tile="Brick" x="600" y="1000" width="3"/>
+    <Tessel tile="Brick" x="1100" y="900" width="3"/>
+    <Tessel tile="Brick" x="1640" y="700" width="3"/>
+    <Respawner monster="BlueMushroom" x="650" y="1000" dir="RIGHT"/>
+</level>

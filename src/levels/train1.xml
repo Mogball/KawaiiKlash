@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+    <!-- The configurations for this leve -->
+    <LevelConfiguration x="0" y="0" left="true" right="true" up="false" down="false"/>
+    
+    <!-- The player that is in this level -->
+    <Player x="500" y="600"/>
+    
+    <!-- The bottom platform at the start -->
+    <Tessel x="200" y="600" width="16" height="1" tile="Brick"/>
+    <Portal x="1500" y="600"/>
+    <BlueSky/>
+
+</level>
+ 

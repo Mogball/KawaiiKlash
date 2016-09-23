@@ -1,0 +1,5 @@
+<i>
+    <i image="start.png" delay="100" x="-4" y="0"/>
+    <i image="fill.png" delay="100" x="0" y="0"/>
+    <i image="end.png" delay="100" x="0" y="0"/>
+</i>

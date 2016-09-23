@@ -1,0 +1,5 @@
+<i>
+    <i image="mouseOver.png" delay="100" x="0" y="0"/>
+    <i image="normal.png" delay="100" x="0" y="0"/>
+    <i image="pressed.png" delay="100" x="0" y="0"/>
+</i>

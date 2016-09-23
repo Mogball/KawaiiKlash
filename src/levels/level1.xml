@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+    <!-- The configurations for this leve -->
+    <LevelConfiguration x="0" y="0" left="true" right="true" up="false" down="false"/>
+    
+    <!-- The player that is in this level -->
+    <Player x="150" y="600"/>
+    
+    <!-- The bottom platform at the start -->
+    <Tessel x="0" y="800" width="20" height="5" tile="Brick"/>
+    
+    <!-- The wall at the very far left that prevents the player from going off screen -->
+    <Tessel height="18" tile="Brick"/>
+    
+    <Brick x="90" y="600"/>
+    <Tessel tile="Brick" x="700" y="560" width="4"/>
+    <Tessel tile="Brick" x="1060" y="560" height="4"/>
+    <Tessel tile="Brick" x="1800" y="480" height="10"/>
+    <Tessel tile="Brick" x="90" y="200" width="6"/>
+    
+    <OrangeMushroom x="150" y="200" dir="RIGHT"/>
+    <RibbonPig x="450" y="200" dir="RIGHT"/>
+    <RibbonPig x="980" y="800"/>
+    <GreenMushroom x="1000" y="560"/>
+    <OrangeMushroom x="1500" y="800"/>
+    
+    <Brick x="1300" y="300"/>
+    <Tessel tile="Brick" x="1620" y="420" width="3"/>
+    <GreenMushroom x="1750" y="420"/>
+    <BlueRibbonPig x="1630" y="420"/>
+    <Tessel tile="Brick" x="2250" y="350" width="4"/>
+    <Brick x="2800" y="250"/>
+    <BlueRibbonPig x="2800" y="250"/>
+
+    <Brick x="3219" y="400" state="4"/>
+    <Brick x="3220" y="400" state="3"/>
+    <HealthPotion x="3205" y="300" tier="1"/>
+    
+    <Brick x="3300" y="720"/>
+    <Respawner monster="OrangeMushroom" x="3360" y="720"/>
+    <Tessel tile="Brick" x="3600" y="400" width="5"/>
+    <Stump x="3632" y="400"/>
+    <Stump x="3800" y="400" dir="RIGHT"/>
+    
+    <Tessel tile="Brick" x="4200" y="500" height="10"/>
+    <Tessel tile="Brick" x="4600" y="400" height="12"/>
+    <Tessel tile="Brick" x="5050" y="550" height="9"/>
+    <Tessel tile="Brick" x="5450" y="450" height="11"/>
+    <GreenMushroom x="5470" y="450"/>
+    
+    <Tessel tile="Brick" x="5900" y="700" height="2" width="5"/>
+    <Brick x="5900" y="640"/>
+    <Brick x="6260" y="640"/>
+    <RibbonPig x="6100" y="700"/>
+    <Tessel tile="Brick" x="6170" y="-30" height="9"/>
+    <Tessel tile="Brick" x="5990" y="450" width="2"/>
+    <Spawner monster="RibbonPig" x="6100" y="450" delay="1000"/>
+    
+    <Portal x="6305" y="650"/>
+    
+    <!-- The background properties of this level -->
+    <BlueSky/>
+    <Clouds density="5" scroll="0.2" scale="0.5" state="1"/>
+    <RockyMountains scale="1.5"/>
+    <Clouds density="5" scroll="0.3" scale="0.8"/>
+    <Forest scale="1.5"/>
+    <Tree type="2" period="500"/>
+    <Tree type="4" period="750"/>
+    <Tree type="1" period="600"/>
+    <Tree type="5" period="800"/>
+    <Tree type="7" period="1000"/>
+    <Bushes/>
+    
+</level>
+ 

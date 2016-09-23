@@ -1,0 +1,6 @@
+<i>
+    <i sound="jump.wav"/>
+    <i sound="hit.wav"/>
+    <i sound="death.wav"/>
+    <i sound="complete.wav"/>
+</i>

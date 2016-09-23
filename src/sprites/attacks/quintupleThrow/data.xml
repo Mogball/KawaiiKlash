@@ -1,0 +1,29 @@
+<i>
+    <i image="14121001_0.png" delay="100" x="0" y="-32"/>
+    <i image="14121001_1.png" delay="100" x="0" y="-32"/>
+    <i image="14121001_2.png" delay="100" x="0" y="-32"/>
+    <i image="hit_0.png" delay="100" x="-38" y="-42"/>
+    <i image="hit_1.png" delay="100" x="-38" y="-42"/>
+    <i image="hit_2.png" delay="100" x="-38" y="-42"/>
+    <i image="hit_3.png" delay="100" x="-38" y="-42"/>
+    <i image="effect_0.png" delay="90" x="-130" y="-130"/>
+    
+    <i image="effect_1.png" delay="30" x="-130" y="-130"/>
+    <i image="effect_2.png" delay="30" x="-130" y="-130"/>
+    <i image="effect_3.png" delay="30" x="-130" y="-130"/>
+    
+    <i image="effect_4.png" delay="30" x="-130" y="-130"/>
+    <i image="effect_5.png" delay="30" x="-130" y="-130"/>
+    <i image="effect_6.png" delay="30" x="-130" y="-130"/>
+    
+    <i image="effect_7.png" delay="90" x="-130" y="-130"/>
+    <i image="effect_8.png" delay="60" x="-130" y="-130"/>
+    <i image="effect_9.png" delay="60" x="-130" y="-130"/>
+    <i image="afterimage.swordOL.swingO1.2_0.png" delay="60" x="0" y="0"/>
+    <i image="afterimage.swordOL.swingO2.2_0.png" delay="60" x="0" y="0"/>
+    <i image="afterimage.swordOL.swingO3.2_0.png" delay="60" x="0" y="0"/>
+    <i image="afterimage.swordOL.swingOF.3_0.png" delay="60" x="0" y="0"/>
+    <i image="ball_0.png" delay="100" x="-31" y="0"/>
+    <i image="ball_1.png" delay="100" x="-31" y="0"/>
+    <i image="naked_0.png" delay="100" x="-24" y="-6"/>
+</i>

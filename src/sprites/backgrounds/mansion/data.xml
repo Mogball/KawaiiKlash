@@ -1,0 +1,6 @@
+<i>
+    <i image="mansion.png" delay="100" x="-370" y="-633"/>
+    <i image="back.png" delay="100" x="0" y="0"/>
+    <i image="leftPillar.png" delay="100" x="0" y="0"/>
+    <i image="rightPillar.png" delay="100" x="0" y="0"/>
+</i>

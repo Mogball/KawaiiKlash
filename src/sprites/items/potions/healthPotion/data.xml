@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <i image="pot0.png" delay="100" x="-5" y="27"/>
+    <i image="pot1.png" delay="100" x="-2" y="30"/>
+    <i image="pot2.png" delay="100" x="-2" y="30"/>
+</root>

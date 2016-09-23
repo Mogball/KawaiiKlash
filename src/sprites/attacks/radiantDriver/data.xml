@@ -1,0 +1,33 @@
+<i>
+  <i image="hit_0.png" delay="90" x="-80" y="-66"/>
+  <i image="hit_1.png" delay="90" x="-80" y="-66"/>
+  <i image="hit_2.png" delay="90" x="-80" y="-66"/>
+  <i image="hit_3.png" delay="90" x="-80" y="-66"/>
+  <i image="hit_4.png" delay="90" x="-80" y="-66"/>
+  <i image="effect_0.png" delay="45" x="-230" y="-71"/>
+  <i image="effect_1.png" delay="45" x="-230" y="-71"/>
+  <i image="effect_2.png" delay="50" x="-230" y="-71"/>
+  <i image="effect_3.png" delay="50" x="-230" y="-71"/>
+  <i image="effect_4.png" delay="50" x="-230" y="-71"/>
+  <i image="effect_5.png" delay="50" x="-250" y="-71"/>
+  <i image="effect_6.png" delay="45" x="-250" y="-71"/>
+  <i image="effect_7.png" delay="60" x="-250" y="-71"/>
+  <i image="effect_8.png" delay="60" x="-280" y="-71"/>
+  <i image="effect_9.png" delay="60" x="-350" y="-71"/>
+  <i image="effect_10.png" delay="30" x="-350" y="-71"/>
+  <i image="effect_11.png" delay="30" x="-350" y="-71"/>
+  <i image="effect_12.png" delay="30" x="-350" y="-71"/>
+  <i image="effect_13.png" delay="30" x="-350" y="-71"/>
+  <i image="effect_14.png" delay="30" x="-350" y="-71"/>
+  <i image="effect_15.png" delay="30" x="-350" y="-71"/>
+  <i image="effect_16.png" delay="30" x="-350" y="-71"/>
+  <i image="special_0.png" delay="60" x="-250" y="-161"/>
+  <i image="special_1.png" delay="60" x="-250" y="-161"/>
+  <i image="special_2.png" delay="60" x="-250" y="-161"/>
+  <i image="special_3.png" delay="60" x="-250" y="-161"/>
+  <i image="special_4.png" delay="60" x="-250" y="-161"/>
+  <i image="special_5.png" delay="60" x="-250" y="-161"/>
+  <i image="special_6.png" delay="60" x="-250" y="-161"/>
+  <i image="special_7.png" delay="60" x="-250" y="-161"/>
+  <i image="naked_0.png" delay="100" x="-350" y="-71"/>
+</i>

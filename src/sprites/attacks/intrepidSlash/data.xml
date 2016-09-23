@@ -1,0 +1,26 @@
+<!--Intrepid Slash-->
+
+<i>
+    <i image="effect_0.png" delay="30" x="-180" y="-147"/>
+    <i image="effect_1.png" delay="30" x="-180" y="-147"/>
+    <i image="effect_2.png" delay="30" x="-180" y="-147"/>
+    <i image="effect_3.png" delay="30" x="-180" y="-147"/>
+    <i image="effect_4.png" delay="90" x="-180" y="-147"/>
+    <i image="effect_5.png" delay="120" x="-180" y="-147"/>
+    <i image="effect_6.png" delay="60" x="-180" y="-147"/>
+    <i image="effect_7.png" delay="90" x="-180" y="-147"/>
+    <i image="effect_8.png" delay="120" x="-180" y="-147"/>
+    <i image="effect_9.png" delay="60" x="-180" y="-147"/>
+    <i image="effect_10.png" delay="90" x="-180" y="-147"/>
+    <i image="effect_11.png" delay="90" x="-180" y="-147"/>
+    <i image="hit0_0.png" delay="90" x="-73" y="-76"/>
+    <i image="hit0_1.png" delay="90" x="-73" y="-76"/>
+    <i image="hit0_2.png" delay="90" x="-73" y="-76"/>
+    <i image="hit1_0.png" delay="90" x="-64" y="-57"/>
+    <i image="hit1_1.png" delay="90" x="-64" y="-57"/>
+    <i image="hit2_0.png" delay="90" x="-95" y="-81"/>
+    <i image="hit2_1.png" delay="90" x="-95" y="-81"/>
+    <i image="hit2_2.png" delay="90" x="-95" y="-81"/>
+    <i image="hit2_3.png" delay="90" x="-95" y="-81"/>
+    <i image="naked_0.png" delay="100" x="-180" y="-157"/>
+</i>
