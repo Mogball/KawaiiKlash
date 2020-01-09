@@ -1,0 +1,3 @@
+[submodule "hackthemarket"]
+	path = hackthemarket
+	url = https://github.com/mogball/hackthemarket

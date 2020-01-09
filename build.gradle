@@ -1,0 +1,46 @@
+plugins {
+  id 'java'
+  id 'application'
+  id 'java-library'
+}
+
+allprojects {
+  repositories {
+    mavenCentral()
+    maven { url "http://b2s-repo.googlecode.com/svn/trunk/mvn-repo" }
+    maven { url "http://java.freehep.org/maven2" }
+    maven { url "http://download.java.net/maven/2" }
+  }
+}
+
+application {
+  mainClassName = 'kawaiiklash.Main'
+}
+
+dependencies {
+  compile group: 'org.slick2d', name: 'slick2d-core', version: '1.+'
+  compile group: 'org.lwjgl.lwjgl', name: 'lwjgl', version: '2.+'
+}
+
+java {
+  sourceCompatibility = JavaVersion.VERSION_1_8
+  targetCompatibility = JavaVersion.VERSION_1_8
+}
+
+version = '1.2.1'
+
+sourceSets {
+  main {
+    java {
+      srcDirs = ['src', 'hackthemarket/src']
+    }
+    resources {
+      srcDirs 'src/resources'
+    }
+  }
+}
+
+run {
+  systemProperty "java.library.path", file('native/macosx').absolutePath
+  workingDir file('src').absolutePath
+}
